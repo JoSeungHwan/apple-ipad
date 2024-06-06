@@ -19,9 +19,6 @@
 
 ### Google Fonts
 
-Apple SF Pro 폰트는 공유 및 배포할 수 없기 때문에,  
-가장 유사한 웹 폰트로 대체합니다.
-
 영문: [Roboto](https://fonts.google.com/specimen/Roboto)
 한글: [Noto Sans KR](https://fonts.google.com/noto/specimen/Noto+Sans+KR)
 
@@ -63,8 +60,6 @@ Apple SF Pro 폰트는 공유 및 배포할 수 없기 때문에,
 ```
 
 ### Hero Contents 가격 요소
-
-원화 단위 입력이 어려운 경우 복사하세요!
 
 ```html
 <p class="pricing">₩449,000부터</p>
@@ -156,7 +151,7 @@ html {
 
 ### Sprite Icon Animation
 
-여러 이미지를 한 이미지로 합쳐 관리하는 방식을 **이미지 스프라이트 기법** 이라고 합니다.
+여러 이미지를 한 이미지로 합쳐 관리하는 방식 **이미지 스프라이트 기법**
 
 <img src="./images/sprite_apps.png" alt="이미지 스프라이트" width="300" />
 
